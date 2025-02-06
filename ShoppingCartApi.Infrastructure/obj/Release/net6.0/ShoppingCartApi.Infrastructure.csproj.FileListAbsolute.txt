@@ -1,0 +1,15 @@
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\bin\Release\net6.0\ShoppingCartApi.Infrastructure.deps.json
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\bin\Release\net6.0\ShoppingCartApi.Infrastructure.dll
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\bin\Release\net6.0\ShoppingCartApi.Infrastructure.pdb
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\bin\Release\net6.0\ShoppingCartApi.Domain.dll
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\bin\Release\net6.0\ShoppingCartApi.Domain.pdb
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\obj\Release\net6.0\ShoppingCartApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\obj\Release\net6.0\ShoppingCartApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\obj\Release\net6.0\ShoppingCartApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\obj\Release\net6.0\ShoppingCartApi.Infrastructure.AssemblyInfo.cs
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\obj\Release\net6.0\ShoppingCartApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\obj\Release\net6.0\ShoppingCartApi.Infrastructure.csproj.CopyComplete
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\obj\Release\net6.0\ShoppingCartApi.Infrastructure.dll
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\obj\Release\net6.0\refint\ShoppingCartApi.Infrastructure.dll
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\obj\Release\net6.0\ShoppingCartApi.Infrastructure.pdb
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Infrastructure\obj\Release\net6.0\ref\ShoppingCartApi.Infrastructure.dll

@@ -1,0 +1,12 @@
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\bin\Debug\net6.0\ShoppingCartApi.Domain.deps.json
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\bin\Debug\net6.0\ShoppingCartApi.Domain.dll
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\bin\Debug\net6.0\ShoppingCartApi.Domain.pdb
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\obj\Debug\net6.0\ShoppingCartApi.Domain.csproj.AssemblyReference.cache
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\obj\Debug\net6.0\ShoppingCartApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\obj\Debug\net6.0\ShoppingCartApi.Domain.AssemblyInfoInputs.cache
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\obj\Debug\net6.0\ShoppingCartApi.Domain.AssemblyInfo.cs
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\obj\Debug\net6.0\ShoppingCartApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\obj\Debug\net6.0\ShoppingCartApi.Domain.dll
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\obj\Debug\net6.0\refint\ShoppingCartApi.Domain.dll
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\obj\Debug\net6.0\ShoppingCartApi.Domain.pdb
+C:\Users\reshm\source\repos\ShoppingCartApi\ShoppingCartApi.Domain\obj\Debug\net6.0\ref\ShoppingCartApi.Domain.dll
